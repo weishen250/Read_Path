@@ -1,6 +1,5 @@
 # Read_Path 从万行代码中精确匹配 简简单单拿下高危
 
-### 技术垃圾，BUG众多，大佬轻喷
 ### windows 直接下载exe文件：https://wwi.lanzout.com/ipnZnz9s0ob 
 ---
 js / html /josn 
@@ -23,3 +22,5 @@ js / html /josn
 
 ### 其他使用：批量访问大量目标
 ![image](https://user-images.githubusercontent.com/71580418/150811065-032bb254-f3d4-4daf-82af-76b2026fec81.png)
+---
+### 技术垃圾，BUG众多，大佬轻喷
