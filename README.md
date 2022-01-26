@@ -1,4 +1,7 @@
 # Read_Path 从万行代码中精确匹配 简简单单拿下高危
+
+### windows 直接下载exe文件：https://wwi.lanzout.com/ipnZnz9s0ob 
+---
 js / html /josn 
 
 中获取 
